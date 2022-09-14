@@ -1,1 +1,1 @@
-my notes app 
+my useless notes app 
